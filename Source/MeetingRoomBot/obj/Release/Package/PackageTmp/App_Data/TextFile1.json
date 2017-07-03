@@ -1,0 +1,59 @@
+﻿{"metric":[],"internal":{"data":{"id":"ecc466bf-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:26.648Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"QA1hUQTByG0=","parentId":"QA1hUQTByG0=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"dimensions":[{"UPN":"peter_yu@tw.trendnet.org"}],"metrics":[{"Message":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
+{
+  "metric": [],
+  "internal": {
+    "data": {
+      "id": "ecc466c0-5a4f-11e7-a7bd-a36e8590a579",
+      "documentVersion": "1.61"
+    }
+  },
+  "context": {
+    "data": {
+      "eventTime": "2017-06-26T09:14:34.703Z",
+      "isSynthetic": true,
+      "syntheticSource": "Bot",
+      "samplingRate": 100.0
+    },
+    "cloud": {},
+    "device": {
+      "type": "PC",
+      "roleName": "tmmeetingroompoc01",
+      "roleInstance": "RD000D3A8049F8",
+      "screenResolution": {}
+    },
+    "session": { "isFirst": false },
+    "operation": {
+      "id": "QA1hUQTByG0=",
+      "parentId": "QA1hUQTByG0=",
+      "name": "POST messages"
+    },
+    "location": {
+      "clientip": "23.99.57.0",
+      "continent": "North America",
+      "country": "United States",
+      "province": "California",
+      "city": "San Jose"
+    },
+    "custom": {
+      "metrics": [
+        {
+          "Message": {
+            "count": 1.0,
+            "max": 1.0,
+            "min": 1.0,
+            "sampledValue": 1.0,
+            "stdDev": 0.0,
+            "sum": 1.0,
+            "value": 1.0
+          }
+        }
+      ]
+    }
+  }
+}
+{"metric":[],"internal":{"data":{"id":"ecc466c1-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:34.703Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"QA1hUQTByG0=","parentId":"QA1hUQTByG0=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"metrics":[{"Booked":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
+{"metric":[],"internal":{"data":{"id":"ecc466c2-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:44.084Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"FYvXq9wqmno=","parentId":"FYvXq9wqmno=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"dimensions":[{"UPN":"peter_yu@tw.trendnet.org"}],"metrics":[{"Message":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
+{"metric":[],"internal":{"data":{"id":"ecc466c3-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:46.49Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"FYvXq9wqmno=","parentId":"FYvXq9wqmno=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"metrics":[{"Message":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
+{"metric":[],"internal":{"data":{"id":"ecc466c4-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:46.49Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"FYvXq9wqmno=","parentId":"FYvXq9wqmno=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"dimensions":[{"RoomNumber":"A1203"}],"metrics":[{"Booked":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
+{"metric":[],"internal":{"data":{"id":"ecc466c5-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:46.505Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"FYvXq9wqmno=","parentId":"FYvXq9wqmno=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"metrics":[{"Message":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
+{"metric":[],"internal":{"data":{"id":"ecc466c6-5a4f-11e7-a7bd-a36e8590a579","documentVersion":"1.61"}},"context":{"data":{"eventTime":"2017-06-26T09:14:46.505Z","isSynthetic":true,"syntheticSource":"Bot","samplingRate":100.0},"cloud":{},"device":{"type":"PC","roleName":"tmmeetingroompoc01","roleInstance":"RD000D3A8049F8","screenResolution":{}},"session":{"isFirst":false},"operation":{"id":"FYvXq9wqmno=","parentId":"FYvXq9wqmno=","name":"POST messages"},"location":{"clientip":"23.99.57.0","continent":"North America","country":"United States","province":"California","city":"San Jose"},"custom":{"dimensions":[{"RoomNumber":"A1203"}],"metrics":[{"Booked":{"count":1.0,"max":1.0,"min":1.0,"sampledValue":1.0,"stdDev":0.0,"sum":1.0,"value":1.0}}]}}}
