@@ -9,8 +9,14 @@ namespace MeetingRoomBot.Services
     {
         public static IMeetRoomService GetService()
         {
+            return new RESTMeetingRoom(null);
+            //return new DemoMeetingRoom(null);
+        }
+        public static IMeetRoomService GetService(ApiCredential credential)
+        {
             //return new RESTMeetingRoom();
-            return new DemoMeetingRoom();
+            //return new DemoMeetingRoom(credential);
+            return new GraphMeetingRoom(credential);
         }
     }
 }

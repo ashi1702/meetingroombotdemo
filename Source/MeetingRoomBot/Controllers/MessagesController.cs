@@ -26,6 +26,7 @@ namespace MeetingRoomBot
         /// </summary>
         public async Task<HttpResponseMessage> Post([FromBody]Microsoft.Bot.Connector.Activity activity)
         {
+            Trace.TraceInformation("Post called");
             try
             {
                 if (activity.Type == ActivityTypes.Message)

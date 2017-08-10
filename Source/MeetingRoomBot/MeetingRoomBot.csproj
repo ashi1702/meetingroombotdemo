@@ -306,7 +306,9 @@
     <Compile Include="Models\MeetingRoom.cs" />
     <Compile Include="Modules\GlobalHandlerModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ApiCredential.cs" />
     <Compile Include="Services\DemoMeetingRoom.cs" />
+    <Compile Include="Services\GraphMeetingRoomcs.cs" />
     <Compile Include="Services\IMeetRoomService.cs" />
     <Compile Include="Services\MeetingRoomApiFactory.cs" />
     <Compile Include="Services\RESTMeetingRoom.cs" />
@@ -323,6 +325,7 @@
     <None Include="Properties\PublishProfiles\tmmeetingroompoc01 - Web Deploy.pubxml" />
     <Content Include="settings.config">
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />

@@ -259,6 +259,7 @@ C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\Source\MeetingRoomBot\obj
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\Source\MeetingRoomBot\obj\Debug\Bot Application.pdb
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\ApplicationInsights.config
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\App_Data\ics.txt
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\settings.config
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Bot Application.dll.config
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Bot Application.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Bot Application.pdb
@@ -278,6 +279,9 @@ C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Bot.Builder.Autofac.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Bot.Builder.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.CSharp.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.Platform.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.IdentityModel.Logging.dll
@@ -289,24 +293,44 @@ C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.WindowsAzure.Configuration.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.WindowsAzure.Storage.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Newtonsoft.Json.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.ComponentModel.Composition.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Configuration.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Data.DataSetExtensions.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Data.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Drawing.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.EnterpriseServices.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.IdentityModel.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Net.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Net.Http.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Net.Http.Formatting.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Net.Http.WebRequest.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Runtime.Serialization.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Runtime.Serialization.Primitives.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Security.Cryptography.Algorithms.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Security.Cryptography.Encoding.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Security.Cryptography.Primitives.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.ApplicationServices.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.DynamicData.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Entity.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Extensions.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Helpers.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Http.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Http.WebHost.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Mvc.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Optimization.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Razor.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Services.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.WebPages.Deployment.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.WebPages.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Xml.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Xml.Linq.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Xml.ReaderWriter.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\WebGrease.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\AuthBot.pdb
@@ -323,6 +347,8 @@ C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Bot.Builder.xml
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Bot.Builder.Autofac.xml
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.xml
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.Platform.xml
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.pdb
@@ -354,9 +380,7 @@ C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\es\Microsoft.Bot.Builder.resources.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\fa\Microsoft.Bot.Builder.resources.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\fr\Microsoft.Bot.Builder.resources.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\it\Microsoft.Bot.Builder.resources.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\ja\Microsoft.Bot.Builder.resources.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\nl\Microsoft.Bot.Builder.resources.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\ru\Microsoft.Bot.Builder.resources.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\obj\Debug\MeetingRoomBot.csprojResolveAssemblyReference.cache
@@ -364,28 +388,5 @@ C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\obj\Debug\MeetingRoomBot.csproj.GenerateResource.Cache
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\obj\Debug\Bot Application.dll
 C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\obj\Debug\Bot Application.pdb
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.CSharp.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.ComponentModel.Composition.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.ComponentModel.DataAnnotations.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Configuration.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Data.DataSetExtensions.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Data.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Drawing.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.EnterpriseServices.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.IdentityModel.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Net.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Net.Http.WebRequest.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Runtime.Serialization.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.ApplicationServices.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.DynamicData.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Entity.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Extensions.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Web.Services.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Xml.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\System.Xml.Linq.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.Platform.dll
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.xml
-C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\michi.FAREAST\Source\Repos\meetingroombotdemo\meetingroombotdemo\Source\MeetingRoomBot\bin\nl\Microsoft.Bot.Builder.resources.dll

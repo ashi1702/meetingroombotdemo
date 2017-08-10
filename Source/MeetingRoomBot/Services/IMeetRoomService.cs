@@ -71,4 +71,15 @@ namespace MeetingRoomBot.Services
         Task<Tuple<bool, List<MeetingRoom>>> FindAvailableMeetingRooms(MeetingRoomSuggestionConstrain constrain);
         //Task<bool> BookMeetingRoom(MeetingRoomSuggestionConstrain constrain);
     }
+    public abstract class MeetingRoomService:IMeetRoomService
+    {
+        protected ApiCredential _credential = null;
+        public MeetingRoomService(ApiCredential credential)
+        {
+            _credential = credential;
+        }
+
+        public abstract Task<Tuple<bool, List<MeetingRoom>>> FindAvailableMeetingRooms(MeetingRoomSuggestionConstrain constrain);
+        
+    }
 }

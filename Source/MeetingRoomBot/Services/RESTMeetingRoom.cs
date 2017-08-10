@@ -28,15 +28,16 @@ namespace MeetingRoomBot.Services
         public bool Result { get; set; }
         public List<string> Recommended { get; set; }
     }
-    public class RESTMeetingRoom : IMeetRoomService
+    public class RESTMeetingRoom : MeetingRoomService
     {
+        public RESTMeetingRoom(ApiCredential credential) : base(credential) { } 
         HttpClient _client = new HttpClient();
         public Task<bool> BookMeetingRoom(MeetingRoomSuggestionConstrain constrain)
         {
             return Task.FromResult<bool>(true);
         }
         string _restUrl = "";
-        public async Task<Tuple<bool,List<MeetingRoom>>> FindAvailableMeetingRooms(MeetingRoomSuggestionConstrain constrain)
+        public override async Task<Tuple<bool,List<MeetingRoom>>> FindAvailableMeetingRooms(MeetingRoomSuggestionConstrain constrain)
         {
             FindMeetingRoomParam param = new FindMeetingRoomParam();
             param.Account = constrain.MeetingOrganizer;

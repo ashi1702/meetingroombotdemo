@@ -63,6 +63,8 @@ namespace AuthBot
                 {
                     token = GetCortanaAccessToken(context);
                     var jwt = new JwtSecurityToken(token);
+                    if (authResult == null)
+                        authResult = new AuthResult();
 
                     authResult.AccessToken = token;
                     long tick = long.MinValue;
